@@ -61,4 +61,4 @@
 
 - 列表固定头部 [https://github.com/fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
 
-<img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo1.gif" width="300"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo2.gif" width="300"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo3.gif" width="300">
+<img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo1.gif" width="200"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo2.gif" width="200"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo3.gif" width="200">
