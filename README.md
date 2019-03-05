@@ -32,7 +32,8 @@
 
 ## 工具
 
-- Flutter框架 各种架构 [https://github.com/brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples)
+- Flutter框架 各种架构 [https://github.com/brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples)
+
 - bloc框架 [https://github.com/felangel/bloc](https://github.com/felangel/bloc)
 - scoped_model [https://github.com/brianegan/scoped_model](https://github.com/brianegan/scoped_model)
 - flutter_flux [https://github.com/google/flutter_flux](https://github.com/google/flutter_flux)
