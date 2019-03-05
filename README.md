@@ -42,10 +42,23 @@
 
 ## 插件
 - flutter插件 包含摄像头、传感器、webview等 [https://github.com/flutter/plugins](https://github.com/flutter/plugins)
+
 - flutter路由 [https://github.com/theyakka/fluro](https://github.com/theyakka/fluro)
+
 - 游戏引起 [https://github.com/luanpotter/flame](https://github.com/luanpotter/flame)
+
 - SQLite插件 [https://github.com/tekartik/sqflite](https://github.com/tekartik/sqflite)
+
+
 - 轮播图 [https://github.com/best-flutter/flutter_swiper](https://github.com/best-flutter/flutter_swiper)
+
+
 - 各种加载loading [https://github.com/jogboms/flutter_spinkit](https://github.com/jogboms/flutter_spinkit)
+
+
 - 侧滑删除添加 [https://github.com/letsar/flutter_slidable](https://github.com/letsar/flutter_slidable)
+
+
 - 列表固定头部 [https://github.com/fluttercommunity/flutter_sticky_headers](https://github.com/fluttercommunity/flutter_sticky_headers)
+
+<img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo1.gif" width="300"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo2.gif" width="300"><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo3.gif" width="300">
