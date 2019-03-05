@@ -41,7 +41,7 @@
 
 
 ## 插件
-- flutter插件 包含摄像头、传感器、webview等 [https://github.com/flutter/plugins](https://github.com/flutter/plugins)
+- flutter插件 包含摄像头、传感器、webview等 [https://github.com/flutter/plugins](https://github.com/flutter/plugins)
 - flutter路由 [https://github.com/theyakka/fluro](https://github.com/theyakka/fluro)
 - 游戏引起 [https://github.com/luanpotter/flame](https://github.com/luanpotter/flame)
 - SQLite插件 [https://github.com/tekartik/sqflite](https://github.com/tekartik/sqflite)
